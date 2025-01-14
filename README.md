@@ -57,6 +57,8 @@ The library management system offers a comprehensive set of features to streamli
 
 ## Class Diagram
 
+### Library management System
+
 ![Library Management System](class_diagram.jpeg)
 
  
