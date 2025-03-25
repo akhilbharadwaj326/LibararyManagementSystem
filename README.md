@@ -59,7 +59,7 @@ The library management system offers a comprehensive set of features to streamli
 
 ### Library management System
 
-![Library Management System](class_diagram.jpeg)
+![ER Daigarm](BookMyshow.png)
 
  
 ## Class Descriptions
